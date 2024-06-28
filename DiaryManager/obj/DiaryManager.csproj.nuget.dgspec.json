@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/DiaryManager.csproj": {}
+  },
+  "projects": {
+    "/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/DiaryManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/DiaryManager.csproj",
+        "projectName": "DiaryManager",
+        "projectPath": "/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/DiaryManager.csproj",
+        "packagesPath": "/Users/aaa/.nuget/packages/",
+        "outputPath": "/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aaa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

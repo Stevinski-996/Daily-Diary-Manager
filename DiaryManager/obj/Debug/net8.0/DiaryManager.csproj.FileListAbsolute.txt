@@ -1,0 +1,14 @@
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/bin/Debug/net8.0/DiaryManager
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/bin/Debug/net8.0/DiaryManager.deps.json
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/bin/Debug/net8.0/DiaryManager.runtimeconfig.json
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/bin/Debug/net8.0/DiaryManager.dll
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/bin/Debug/net8.0/DiaryManager.pdb
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/Debug/net8.0/DiaryManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/Debug/net8.0/DiaryManager.AssemblyInfoInputs.cache
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/Debug/net8.0/DiaryManager.AssemblyInfo.cs
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/Debug/net8.0/DiaryManager.csproj.CoreCompileInputs.cache
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/Debug/net8.0/DiaryManager.dll
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/Debug/net8.0/refint/DiaryManager.dll
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/Debug/net8.0/DiaryManager.pdb
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/Debug/net8.0/DiaryManager.genruntimeconfig.cache
+/Users/aaa/Desktop/Daily-Diary-Manager/DiaryManager/obj/Debug/net8.0/ref/DiaryManager.dll
